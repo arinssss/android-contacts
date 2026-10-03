@@ -16,7 +16,6 @@ import ru.yandex.practicum.contacts.R
 import ru.yandex.practicum.contacts.data.models.MessagingApp
 import ru.yandex.practicum.contacts.presentation.ui.components.CommonBottomSheet
 
-
 @Composable
 fun MessengersBottomSheet(
     selectedApps: Set<MessagingApp>,
